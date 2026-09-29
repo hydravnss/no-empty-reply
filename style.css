@@ -1,0 +1,33 @@
+/* No Empty Reply */
+#no_empty_reply_settings .ner-block {
+    margin: 6px 0;
+}
+
+#no_empty_reply_settings .ner-block > label.checkbox_label {
+    margin: 2px 0;
+}
+
+#no_empty_reply_settings textarea.text_pole {
+    min-height: 70px;
+    resize: vertical;
+    font-family: var(--monoFontFamily, monospace);
+    font-size: 0.9em;
+}
+
+#no_empty_reply_settings .ner-hint {
+    opacity: 0.7;
+    font-size: 0.85em;
+    margin: 2px 0 4px 0;
+}
+
+#no_empty_reply_settings .ner-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 4px 0;
+}
+
+#no_empty_reply_settings hr {
+    margin: 8px 0;
+}

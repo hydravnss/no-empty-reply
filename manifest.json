@@ -1,0 +1,13 @@
+{
+    "display_name": "No Empty Reply",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "hydravnss",
+    "version": "1.0.0",
+    "homePage": "https://github.com/hydravnss/no-empty-reply",
+    "minimum_client_version": "1.12.0",
+    "description": "FR: Détecte les réponses de bot vides (« . », « … », « * », espaces) et régénère automatiquement (swipe) jusqu'à N fois, en chat simple ou en groupe. EN: Detects empty/punctuation-only bot replies and automatically regenerates (swipe) up to N times, in solo or group chats."
+}
